@@ -2,7 +2,9 @@ REQUIREMENTS
 ============
 
 python 2.7>=3.0
+
 python-setuptools
+
 sqlite3-devel
 
 
