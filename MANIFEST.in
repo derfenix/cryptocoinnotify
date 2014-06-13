@@ -1,0 +1,4 @@
+include cryptocoinnotify/cryptocoinnotify.cfg
+include requirements.txt
+include cryptocoinnotify/database.sqlite3
+include cryptocoinnotify/scripts/cryptocoinnotify

@@ -1,0 +1,4 @@
+antiorm==1.1.1
+pysqlite==2.6.3
+requests==2.3.0
+wsgiref==0.1.2
